@@ -8,6 +8,7 @@ If you have any awesome resources that you would like to be included, make a pul
 + https://johnresig.com/blog/write-code-every-day/
 + https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7
 + https://www.oneupsecurity.com/research/five-minute-guide-to-software-security/?t=rdrs
++ http://www.golangprograms.com/data-structure-and-algorithms.html
 
 ### Site Reliability Engineering
 + https://landing.google.com/sre/book/index.html
