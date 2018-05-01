@@ -1,5 +1,5 @@
 # Resourced
-An awesome list of resources for learning Software and Site Reliability Engineering.
+An awesome list of resources for learning Software and Site Reliability Engineering.</br>
 If you have any awesome resources that you would like to be included, make a pull request.
 
 ### Software Engineering
